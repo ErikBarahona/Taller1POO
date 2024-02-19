@@ -2,7 +2,7 @@ class computadora:
   def __init__(self):
     print ("Tipo de computador")
   def tipo(self,mensaje):
-    print mensaje
+    print (mensaje)
     
 Desktop = computadora()
 Desktop.tipo('soy un Desktop')
